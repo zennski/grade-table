@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 import './Form2Table.css'
 
-class QpiCalculator extends Component {
+class Form2Table extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -231,4 +231,4 @@ class QpiCalculator extends Component {
   }
 }
 
-export default QpiCalculator;
+export default Form2Table;
